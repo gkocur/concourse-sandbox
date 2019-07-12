@@ -1,0 +1,24 @@
+---
+resources:
+  - name: sandbox
+    type: git
+    source:
+      uri: https://github.com/gkocur/concourse-sandbox.git
+      branch: develop
+
+  - name: repo
+    type: git
+    source:
+      uri: https://github.com/gkocur/terraform-demo.git
+      branch: master
+
+jobs:
+  - name: job-hello-world
+    public: true
+    plan:
+      - get: sandbox
+      - get: repo
+      - task: hello-world
+        file: sandbox/ci/task1.yaml
+        params:
+          SERVICE_REPO: repo
