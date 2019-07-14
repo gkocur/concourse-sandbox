@@ -2,4 +2,4 @@
 
 shopt -s dotglob
 echo ${SOURCE}
-#mv ${SOURCE}/* ${DEST}
+mv ${SOURCE}/* ${DEST}

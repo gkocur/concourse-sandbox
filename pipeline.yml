@@ -15,7 +15,7 @@ resources:
   - name: img
     type: docker-image
     source:
-      repository: busybox
+      repository: ubuntu
 
 jobs:
   - name: job-hello-world
