@@ -6,7 +6,7 @@ image_resource:
   source: {repository: busybox}
 
 inputs:
-  - name: ((SERVICE_REPO))
+  - name: service
 
 run:
   path: echo
