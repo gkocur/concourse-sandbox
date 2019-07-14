@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+apt update && apt install -y git
 shopt -s dotglob
 echo ${SOURCE}
-${GIT} clone ${SOURCE}/* ${DEST}
+git clone ${SOURCE}/* ${DEST}
