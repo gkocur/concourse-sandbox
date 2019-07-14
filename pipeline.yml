@@ -25,16 +25,19 @@ jobs:
       - get: sandbox
       - get: repo
       - task: prepare
+        params:
+          SOURCE: repo
+          DEST: service
         image: img
         config:
-          platfomr: linux
+          platform: linux
           inputs:
             - name: repo
           outputs:
             - name: service
           run:
-            path: mv
-            args: ["repo/*", "service/"]
+            path: sandbox/prepareh.sh
+
       - task: hello-world
         file: sandbox/ci/task1.yaml
 
