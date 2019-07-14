@@ -2,4 +2,4 @@
 
 shopt -s dotglob
 echo ${SOURCE}
-git clone ${SOURCE}/* ${DEST}
+${GIT} clone ${SOURCE}/* ${DEST}
