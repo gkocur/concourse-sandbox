@@ -9,5 +9,7 @@ inputs:
   - name: service
 
 run:
-  path: echo
-  args: [hello world]
+  path: ls
+  args:
+    - "-al"
+    - "service"
