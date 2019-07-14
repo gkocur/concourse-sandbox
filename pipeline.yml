@@ -33,10 +33,11 @@ jobs:
           platform: linux
           inputs:
             - name: repo
+            - name: sandbox
           outputs:
             - name: service
           run:
-            path: sandbox/prepareh.sh
+            path: sandbox/prepare.sh
 
       - task: hello-world
         file: sandbox/ci/task1.yaml

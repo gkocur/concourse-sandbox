@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
 
 shopt -s dotglob
-mv ${SOURCE}/* ${DEST}
+echo ${SOURCE}
+#mv ${SOURCE}/* ${DEST}
