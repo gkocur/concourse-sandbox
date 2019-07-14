@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../var/dcos-cassandra-service" value="2982439968000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../os/kafka-connect-bigquery" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../blog/kafka-streams-autoscaling/kafka-streams-scaling" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../iceo-trading/commons" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../iceo-trading/commons-test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../iceo-trading/exchange" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../iceo-trading/orders-sdk" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../iceo-trading/pc-pay" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../lpp/GABodySplitter" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../lpp/QuantityMaterializer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../lpp/ReportsStream" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../repos/finanse" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../repos/tuprawnik" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../repos/tuprawnik-devops" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="useMavenOutput" value="false" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="733" />
+    <option name="y" value="189" />
+    <option name="width" value="1785" />
+    <option name="height" value="1054" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../mpay/repos/auth" value="1477664370000" />
+        <entry key="$PROJECT_DIR$/../../../mpay/repos/chat" value="1477775142000" />
+        <entry key="$PROJECT_DIR$/../../../mpay/repos/filesharing" value="1477774986000" />
+        <entry key="$PROJECT_DIR$/../../../mpay/repos/g-auth-lib" value="1494316672000" />
+        <entry key="$PROJECT_DIR$/../../../mpay/repos/gateway" value="1477775000000" />
+        <entry key="$PROJECT_DIR$/../../../mpay/repos/news" value="1477904028000" />
+        <entry key="$PROJECT_DIR$/../../../mpay/repos/payment" value="1477775204000" />
+        <entry key="$PROJECT_DIR$/../../../mpay/repos/user" value="1477774967000" />
+        <entry key="$PROJECT_DIR$/../../../mpay/repos/voip" value="1477775179000" />
+        <entry key="$PROJECT_DIR$/../../../repos/akka-sandbox" value="1496399179000" />
+        <entry key="$PROJECT_DIR$/../../../repos/mqperf" value="2988660434000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../akka-simple-cluster-k8s" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../akka-cluster-k8s" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../blog/akka-k8s/akka-management/bootstrap-joining-demo/kubernetes-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../blog/akka-k8s/akka-sandbox" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../blog/akka-k8s/akka-simple-cluster-k8s" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../cryptohawk/cryptohawk" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../collaborate-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../secure-messaging-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../iceo-trading/affiliate" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../iceo-trading/authorization-mock" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../iceo-trading/authservice" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../iceo-trading/crypto-taxes" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../iceo-trading/router2-smoke-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../iceo-trading/sbt-git" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../iceo-trading/trading-debug-tools" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../iceo-trading/trading-exchange" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../iceo-trading/trading-projector" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../iceo-trading/trading-stop-order" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../iceo-trading/tradingengine" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../iceo-trading/tradingengine-it" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../icohouse/address-generator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../icohouse/crypto-address-manager" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../icohouse/crypto-harvester" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../icohouse/crypto-node-proxy" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../icohouse/sakiewka-mini-integration-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../icohouse/startokens-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../icohouse/zlevator" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../kuberenetes-fundamentals" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../repos/bootzooka" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../repos/joinus-devops-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../repos/pwsat-gs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../repos/scalatimes-app" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../repos/supler" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../sakiewka/sakiewka-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/2018-Rozwiazanie_Staz-w-zespole-Danych_Poznan" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

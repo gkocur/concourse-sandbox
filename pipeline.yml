@@ -4,7 +4,7 @@ resources:
     type: git
     source:
       uri: https://github.com/gkocur/concourse-sandbox.git
-      branch: develop
+      branch: master
 
   - name: repo
     type: git
@@ -12,13 +12,29 @@ resources:
       uri: https://github.com/gkocur/terraform-demo.git
       branch: master
 
+  - name: img
+    type: docker-image
+    source:
+      repository: busybox
+
 jobs:
   - name: job-hello-world
     public: true
     plan:
+      - get: img
       - get: sandbox
       - get: repo
+      - task: prepare
+        image: img
+        config:
+          platfomr: linux
+          inputs:
+            - name: repo
+          outputs:
+            - name: service
+          run:
+            path: mv
+            args: ["repo/*", "service/"]
       - task: hello-world
         file: sandbox/ci/task1.yaml
-        params:
-          SERVICE_REPO: repo
+
